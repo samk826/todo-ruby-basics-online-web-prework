@@ -13,7 +13,7 @@ phrase
 
 end
 
-def greeting=(greeting,name)
+def greeting(greeting,name)
   puts "#{greeting} ejcbecb #{name}"
 
 end
